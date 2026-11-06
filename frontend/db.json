@@ -1,0 +1,25 @@
+{
+  "Stocks": [
+    {
+      "id": 1,
+      "Name": "Stock A",
+      "Mom rank": "1",
+      "Vol Rank": "5",
+      "ML Rank": "3"
+    },
+    {
+        "id": 2,
+        "Name": "Stock B",
+        "Mom rank": "2",
+        "Vol Rank": "4",
+        "ML Rank": "1"
+    },
+    {
+        "id": 3,
+        "Name": "Stock C",
+        "Mom rank": "3",
+        "Vol Rank": "2",
+        "ML Rank": "5"
+    }
+  ]
+}
